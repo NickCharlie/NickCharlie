@@ -4,22 +4,17 @@ A backend-oriented developer based in Chongqing, China. Interested in systems pr
 
 ---
 
-#### What I'm working on
+#### Featured projects
 
-- [astrbot_plugin_self_learning](https://github.com/NickCharlie/astrbot_plugin_self_learning) — A self-learning plugin for AstrBot that enables AI chatbots to autonomously learn conversation styles, understand group slang, manage social relationships, and evolve personas naturally. Built with async Python, SQLAlchemy, and multi-database support.
-- [ToyGameEngine](https://github.com/NickCharlie/ToyGameEngine) — A 2D game engine in C++17/Qt6 with GJK/EPA collision detection, quadtree spatial partitioning, and a custom linear algebra library.
-- [Astrbot-Voice-To-Text-Plugin](https://github.com/NickCharlie/Astrbot-Voice-To-Text-Plugin) — An AstrBot plugin for multi-format speech recognition with persona-aware intelligent replies.
-
-#### Past projects
-
-- [Techat](https://github.com/NickCharlie/Techat) — A mobile learning & messaging platform built with Java, Jersey REST framework, and Hibernate ORM.
-- [POLYGON_Hacker](https://github.com/NickCharlie/POLYGON_Hacker) — An early experiment in game memory analysis with C++.
+- [astrbot_plugin_self_learning](https://github.com/NickCharlie/astrbot_plugin_self_learning) — A self-learning plugin for [AstrBot](https://github.com/AstrBotDevs/AstrBot) that enables AI chatbots to autonomously learn conversation styles, understand group slang, manage social relationships, and evolve personas. Built with fully async Python, SQLAlchemy 2.0, multi-database support (SQLite/MySQL/PostgreSQL), and a Repository pattern data access layer.
+- [ToyGameEngine](https://github.com/NickCharlie/ToyGameEngine) — A 2D game engine written in C++17 and Qt6. Features GJK/EPA collision detection, quadtree spatial partitioning, a template-based linear algebra library with LU decomposition, and SIMD (AVX2) optimized math routines.
+- [Techat](https://github.com/NickCharlie/Techat) — A mobile learning & messaging platform. Java backend with Jersey RESTful APIs, Hibernate ORM, C3P0 connection pooling, Token-based auth, and GeTui push notification integration.
 
 ---
 
-#### Areas I'm curious about
+#### Areas I find interesting
 
-Game security & reverse engineering · AI agent simulation · C++20 coroutines · Generative agents · Compiler construction
+AI agent simulation · Game security & reverse engineering · C++20 coroutines · Compiler construction · Autonomous driving systems
 
 ---
 
@@ -44,4 +39,4 @@ Tools:        Git · Linux · CMake
 
 ---
 
-<sub>Nothing fancy here — just someone who likes writing code and figuring out how things work under the hood.</sub>
+<sub>Nothing fancy — just someone who enjoys writing code and figuring out how things work under the hood.</sub>
