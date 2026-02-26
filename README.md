@@ -27,6 +27,7 @@ AI agent simulation · Game security & reverse engineering · C++20 coroutines �
 ```text
 Languages       Python · Java · C++ · SQL                   Go · Node.js (learning)
 Backend         FastAPI · Quart (async)                     Django · Flask · Jersey
+C++ Libs        Qt6 · Boost.Asio · SDL2                     SFML
 ORM / Data      SQLAlchemy 2.0 (async) · Hibernate          Repository pattern · connection pooling
 Databases       MySQL · PostgreSQL · Redis                  ClickHouse
 Middleware      Kafka · Docker
