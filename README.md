@@ -12,6 +12,10 @@ A backend-oriented developer based in Chongqing, China. Interested in systems pr
 
 ---
 
+#### Beyond the code
+
+Street dance & R&B — when I'm not debugging, I'm probably moving to a beat.
+
 #### Areas I find interesting
 
 AI agent simulation · Game security & reverse engineering · C++20 coroutines · Compiler construction · Autonomous driving systems
@@ -39,4 +43,4 @@ Tools:        Git · Linux · CMake
 
 ---
 
-<sub>Nothing fancy — just someone who enjoys writing code and figuring out how things work under the hood.</sub>
+<sub>Keep on dancing.</sub>
