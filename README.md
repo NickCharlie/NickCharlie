@@ -1,4 +1,6 @@
-### Hi, I'm NickMo
+### Hi, I'm NickMo，Mo Zhiping
+
+### Email: nickmo318@outlook.com & max318515692@gmail.com
 
 A backend-oriented developer based in Chongqing, China. Interested in systems programming, AI applications, and game engine internals. Currently learning Go and Node.js while building things with Python, C++, and Java.
 
