@@ -2,12 +2,13 @@
 
 ### Email: nickmo318@outlook.com & max318515692@gmail.com
 
-A backend-oriented developer based in Chongqing, China. Interested in systems programming, AI applications, and game engine internals. Currently learning Go and Node.js while building things with Python, C++, and Java.
+A backend-oriented developer based in Chongqing, China. Interested in systems programming, AI agent development.
+Currently learning Go and Node.js while building AI agents and backend systems with Python.
 
 ---
 
 #### Featured projects
-
+- **RTL Verilog Coding Agent** *(closed-source / internal use)* — An LLM-powered AI coding agent tailored for enterprise internal use in Verilog/EDA workflows. Automates RTL design, testbench generation, and EDA tool orchestration, with integrated PPA (Power, Performance, Area) optimization capabilities for hardware implementation, enabling an agentic development experience for hardware teams.
 - [astrbot_plugin_self_learning](https://github.com/NickCharlie/astrbot_plugin_self_learning) — A self-learning plugin for [AstrBot](https://github.com/AstrBotDevs/AstrBot) that enables AI chatbots to autonomously learn conversation styles, understand group slang, manage social relationships, and evolve personas. Built with fully async Python, SQLAlchemy 2.0, multi-database support (SQLite/MySQL/PostgreSQL), and a Repository pattern data access layer.
 - [ToyGameEngine](https://github.com/NickCharlie/ToyGameEngine) — A 2D game engine written in C++17 and Qt6. Features GJK/EPA collision detection, quadtree spatial partitioning, a template-based linear algebra library with LU decomposition, and SIMD (AVX2) optimized math routines.
 - [Techat](https://github.com/NickCharlie/Techat) — A mobile learning & messaging platform. Java backend with Jersey RESTful APIs, Hibernate ORM, C3P0 connection pooling, Token-based auth, and GeTui push notification integration.
@@ -20,7 +21,7 @@ Street dance & R&B — when I'm not debugging, I'm probably moving to a beat.
 
 #### Areas I find interesting
 
-AI agent simulation · Game security & reverse engineering · C++20 coroutines · Compiler construction · Autonomous driving systems
+AI-assisted GPGPU design · AI agent simulation · Game security & reverse engineering · C++20 coroutines · Compiler construction · Autonomous driving systems
 
 ---
 
